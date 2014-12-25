@@ -2,7 +2,7 @@ TakeHomeHIQ
 ===========
 
 Assignment:
-1)Create a google image Android App
+1) Create a google image Android App
 Create a single page app that replicates a basic google image search.  There should 
 be a text field that accepts a search parameter and a way to display images from the resulting query.  
 You can be creative with the display interface as time allows.  If you want to only display 1 image, 
